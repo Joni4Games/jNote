@@ -1,0 +1,14 @@
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\TestGtkCSharp.exe
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\atk-sharp.dll
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\gdk-sharp.dll
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\glade-sharp.dll
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\glib-sharp.dll
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\gtk-sharp.dll
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\Mono.Posix.dll
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\pango-sharp.dll
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\gdk-sharp.pdb
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\glib-sharp.pdb
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\glade-sharp.pdb
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\pango-sharp.pdb
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\bin\Release\atk-sharp.pdb
+C:\Users\Joni\Documents\Projects\TestGtkCSharp\TestGtkCSharp\obj\x86\Release\TestGtkCSharp.exe

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40B40A36-0F85-4735-842A-B35B366CB578}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestGtkCSharp\MainWindow.cs">
+    <Files>
+      <File FileName="TestGtkCSharp\Program.cs" Line="5" Column="1" />
+      <File FileName="TestGtkCSharp\MainWindow.cs" Line="46" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.jNote PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

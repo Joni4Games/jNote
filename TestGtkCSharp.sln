@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jNote", "TestGtkCSharp\jNote.csproj", "{40B40A36-0F85-4735-842A-B35B366CB578}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CCFB7A4-861A-4D66-80B8-607618B78008}"
+	ProjectSection(SolutionItems) = preProject
+		paint-brush-icon-9030.png = paint-brush-icon-9030.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B40A36-0F85-4735-842A-B35B366CB578}.Debug|x86.ActiveCfg = Debug|x86
+		{40B40A36-0F85-4735-842A-B35B366CB578}.Debug|x86.Build.0 = Debug|x86
+		{40B40A36-0F85-4735-842A-B35B366CB578}.Release|x86.ActiveCfg = Release|x86
+		{40B40A36-0F85-4735-842A-B35B366CB578}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
