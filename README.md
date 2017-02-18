@@ -4,7 +4,7 @@ easy, open-source, cross-platform Note-taking-Tool created with Mono C# and Gtk
 Installation:
 
 ## Windows:
-You will need the minimum of .NET-Framework 4.5
+You will need the .NET-Framework 4.5 or newer
 
 ## Linux:
 You will have to install mono-runtime.
