@@ -1,6 +1,8 @@
 # jNote
 easy, open-source, cross-platform Note-taking-Tool created with Mono C# and Gtk
 
+![alt tag](https://github.com/Joni4Games/jNote/blob/master/resources/build-beta.png)
+
 Installation:
 
 ## Windows:
